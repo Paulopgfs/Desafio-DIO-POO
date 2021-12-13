@@ -1,6 +1,8 @@
 # Desafio DIO POO
 Abstraindo um Bootcamp usando Orientação a Objetos em Java. ☕
-Camila Cavalcante: Tech Teacher
+
+## Tech Teacher
+Camila Cavalcante
 
 ## O que vai ser Abordado
 1. Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS
